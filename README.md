@@ -6,4 +6,4 @@ Players take turns placing their marker (X or O) on the grid.
 The player who succeeds in placing three of their markers in a horizontal, vertical, or diagonal row wins the game.
 
 <h2>Built With<h2>
-Python, HTML, CSS
+<p>Python, HTML, CSS<p>
