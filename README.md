@@ -1,4 +1,4 @@
-# JavaScriptPractice
+# Tic Tac Toe
 
 ## How to Play
 The game is played on a 3x3 grid. 
